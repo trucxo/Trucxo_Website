@@ -1,11 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import NavBar from '../components/Navbar/NavBar';
 import Footer from '../components/Footer';
 import {useDocTitle} from '../components/CustomHook';
-import { getFirestore, collection, addDoc, Firestore } from 'firebase/firestore';
-import axios from 'axios';
-// import emailjs from 'emailjs-com';
-import Notiflix from 'notiflix';
 
 
 
