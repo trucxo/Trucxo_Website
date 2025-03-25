@@ -16,10 +16,8 @@ const Footer = () => {
                         <div className="box-border border-b-4 border-black p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
                             <h3 className="font-bold text-4xl mb-4">Trucxo</h3>
                             <div className='text-md font-medium text-gray-600'>
-                                <h5>Darlaghat </h5>
-                                <p>Tehsil Arki</p>
-                                <p>Distt Solan</p>
-                                <p>Himachal Pradesh</p>
+                                <h5>William's Street</h5>
+                                <p>Florida</p>
                             </div>
                         </div>
                     </div>
