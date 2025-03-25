@@ -17,7 +17,7 @@ const Footer = () => {
                             <h3 className="font-bold text-4xl mb-4">Trucxo</h3>
                             <div className='text-md font-medium text-gray-600'>
                                 <h5>William's Street</h5>
-                                <p>Florida</p>
+                                <p>Florida Street</p>
                             </div>
                         </div>
                     </div>
