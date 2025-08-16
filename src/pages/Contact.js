@@ -133,7 +133,7 @@ const Contact = () => {
                                     </div>
                                     <div className="flex flex-col">
                                         <h2 className="text-2xl">Office Address</h2>
-                                        <p className="text-gray-400">Darlaghat Tehsil Arki Distt Solan Himachal Pradesh</p>
+                                        <p className="text-gray-400">William's Street, Florida</p>
                                     </div>
                                 </div>
                     
@@ -144,11 +144,11 @@ const Contact = () => {
 
                         <div className="flex flex-col">
                         <h2 className="text-2xl">Call Us</h2>
-                        <p className="text-gray-400">Tel: 8580666919</p>
+                        <p className="text-gray-400">Tel: 1234567890</p>
                         
                             <div className='mt-5'>
                                 <h2 className="text-2xl">Send an E-mail</h2>
-                                <p className="text-gray-400">trucxo0490@gmail.com</p>
+                                <p className="text-gray-400">trucxo1234gmail.com</p>
                             </div>
                        
                         </div>
