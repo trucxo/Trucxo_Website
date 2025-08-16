@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import NavLinks from '../Navbar/NavLinks';
 import { HashLink } from 'react-router-hash-link';
-import images from '../../images/Logo4.png';
+import images from '../../images/logoNew.png';
 
 
 const NavBar = () => {
@@ -25,12 +25,19 @@ const NavBar = () => {
             <div className="flex flex-row justify-between items-center py-2">
                 <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
                     <HashLink smooth to="/#hero">
-                    <img 
-                    
-          src={images}  // Update the path to your logo image
-          alt="Logo"
-          className="logo"
-        />
+               <img
+  src={images}
+  alt="Logo"
+  style={{
+    width: "50px",
+    height: "50px",
+    borderRadius: "50%",   // makes it circular
+    objectFit: "cover",    // nicely crops inside the circle
+    border: "2px solid", // adds a stylish green border
+    boxShadow: "0 4px 6px rgba(0,0,0,0.2)", // soft shadow for depth
+  }}
+/>
+
         </HashLink>
                     
                 </div>
