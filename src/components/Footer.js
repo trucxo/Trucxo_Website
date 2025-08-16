@@ -42,6 +42,13 @@ const Footer = () => {
                                     <Link to="/shipping-policy" className="text-[#000000] hover:text-black">Shipping Policy</Link>
                                 </li>
                             </ul>
+                            <div className="mt-6 text-md">
+    <h6 className="text-[#000000] text-xl font-bold mb-2">Grievance Officer</h6>
+    <p className="text-black">
+      Email: <a href="mailto:support@trucxo.com" className="text-blue-600 underline hover:text-blue-800">support@trucxo.com</a><br />
+      Response Time: Within 5 business days
+    </p>
+  </div>
                         </div>
 
                         {/* 3rd block */}
