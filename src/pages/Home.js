@@ -4,17 +4,20 @@ import Footer from '../components/Footer';
 import Hero from '../components/Hero';
 import Intro from '../components/Intro';
 import Services from '../components/Services';
-
+import Portfolio from '../components/Portfolio';
 
 const Home = () => {
     return (
         <>
             <Hero />
             <Intro />
-            <Services />
-            {/* <Portfolio /> */}
-            {/* <Clients /> */}
+           
+          
+             <Services />
+               <Portfolio />
             <Cta/>
+            {/* <Clients /> */}
+            
             <Footer />
         </>
 
