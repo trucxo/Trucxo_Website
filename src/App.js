@@ -11,7 +11,11 @@ import {
 import Home from './pages/Home';
 import Contact from './pages/Contact';
 import DemoProduct from './pages/DemoProduct';
-
+import PrivacyPolicy
+ from './components/PrivacyPolicy';
+ import RefundPolicy from './components/RefundPolicy';
+ import TermsConditions from './components/TermsConditions';
+ import ShippingPolicy from './components/ShippingPolicy';
 import {useDocTitle} from './components/CustomHook';
 import ScrollToTop from './components/ScrollToTop';
 
@@ -40,6 +44,10 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/get-demo" element={<DemoProduct />} /> 
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/refund-policy" element={<RefundPolicy />} />
+          <Route path="/terms-and-conditions" element={<TermsConditions />} />
+          <Route path="/shipping-policy" element={<ShippingPolicy />} />
           </Routes>
         </ScrollToTop>
       </Router>
