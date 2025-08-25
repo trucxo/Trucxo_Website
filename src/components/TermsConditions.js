@@ -14,8 +14,8 @@ const TermsConditions = () => {
         <p className="mt-4">
           Fraudulent activity may result in account suspension and legal action.  
           For queries, contact us at:{" "}
-          <a href="mailto:support@trucxo.com" className="text-blue-600">
-            support@trucxo.com
+          <a href="mailto:operations@trucxo.com" className="text-blue-600">
+            operations@trucxo.com
           </a>.
         </p>
       </div>

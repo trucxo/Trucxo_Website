@@ -30,8 +30,8 @@ const Policies = () => {
                   account creation and booking purposes. Payment details are processed 
                   securely via Razorpay — we never store your card or bank details. 
                   For queries, reach us at 
-                  <a href="mailto:support@trucxo.com" className="text-blue-600 ml-1">
-                    support@trucxo.com
+                  <a href="mailto:operations@trucxo.com" className="text-blue-600 ml-1">
+                    operations@trucxo.com
                   </a>.
                 </p>
               </div>
@@ -48,8 +48,8 @@ const Policies = () => {
                   provided the truck is not dispatched. Refunds (if applicable) 
                   are processed to the original payment method within 7–10 working days. 
                   No refunds are available for completed trips. Contact us at 
-                  <a href="mailto: support@trucxo.com" className="text-blue-600 ml-1">
-                     support@trucxo.com
+                  <a href="mailto: operations@trucxo.com" className="text-blue-600 ml-1">
+                     operations@trucxo.com
                   </a>.
                 </p>
               </div>
@@ -67,8 +67,8 @@ const Policies = () => {
                   connecting truck owners and factories; disputes must be resolved 
                   directly between parties. Fraudulent activity may result in account 
                   suspension and legal action. Contact us at 
-                  <a href="mailto: support@trucxo.com" className="text-blue-600 ml-1">
-                    support@trucxo.com
+                  <a href="mailto: operations@trucxo.com" className="text-blue-600 ml-1">
+                    operations@trucxo.com
                   </a>.
                 </p>
               </div>

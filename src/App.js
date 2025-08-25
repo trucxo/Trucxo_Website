@@ -16,6 +16,7 @@ import PrivacyPolicy
  import RefundPolicy from './components/RefundPolicy';
  import TermsConditions from './components/TermsConditions';
  import ShippingPolicy from './components/ShippingPolicy';
+ import DeleteAccount from './components/DeleteAccount';
 import {useDocTitle} from './components/CustomHook';
 import ScrollToTop from './components/ScrollToTop';
 
@@ -48,6 +49,7 @@ function App() {
           <Route path="/refund-policy" element={<RefundPolicy />} />
           <Route path="/terms-and-conditions" element={<TermsConditions />} />
           <Route path="/shipping-policy" element={<ShippingPolicy />} />
+          <Route path="/delete-account" element={<DeleteAccount />} />
           </Routes>
         </ScrollToTop>
       </Router>

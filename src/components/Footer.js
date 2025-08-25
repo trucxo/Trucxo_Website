@@ -45,7 +45,7 @@ const Footer = () => {
                             <div className="mt-6 text-md">
     <h6 className="text-[#000000] text-xl font-bold mb-2">Grievance Officer</h6>
     <p className="text-black">
-      Email: <a href="mailto:support@trucxo.com" className="text-blue-600 underline hover:text-blue-800">support@trucxo.com</a><br />
+      Email: <a href="mailto:operations@trucxo.com" className="text-blue-600 underline hover:text-blue-800">operations@trucxo.com</a><br />
       Response Time: Within 5 business days
     </p>
   </div>

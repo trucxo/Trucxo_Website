@@ -13,8 +13,8 @@ const ShippingPolicy = () => {
           For delays due to unforeseen circumstances (weather, traffic, strikes), 
           we will notify customers promptly.  
           For support, email:{" "}
-          <a href="mailto:support@trucxo.com" className="text-blue-600">
-            support@trucxo.com
+          <a href="mailto:operations@trucxo.com" className="text-blue-600">
+            operations@trucxo.com
           </a>.
         </p>
       </div>

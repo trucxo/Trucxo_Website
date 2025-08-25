@@ -125,8 +125,8 @@ const PrivacyPolicy = () => {
             </ul>
             <p className="mt-3">
               To exercise rights or request account/data deletion, email{" "}
-              <a href="mailto:support@trucxo.com" className="text-blue-600 underline">
-                support@trucxo.com
+              <a href="mailto:operations@trucxo.com" className="text-blue-600 underline">
+                operations@trucxo.com
               </a>. We may verify your identity before fulfilling requests.
             </p>
           </section>
@@ -155,8 +155,8 @@ const PrivacyPolicy = () => {
               For questions or concerns about this Policy or our data practices, contact:
               <br />
               Email:{" "}
-              <a href="mailto:support@trucxo.com" className="text-blue-600 underline">
-                support@trucxo.com
+              <a href="mailto:operations@trucxo.com" className="text-blue-600 underline">
+                operations@trucxo.com
               </a>
               <br />
               Address: {/* Optional: Replace with your business address */}
